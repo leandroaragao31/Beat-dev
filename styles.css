@@ -34,7 +34,8 @@ div img{
 
 
 .container_menu--btm{
-    width: 60%;
+    width: 70%;
+    border:solid;
 }
 
 .container_header ul{
@@ -47,7 +48,8 @@ div img{
 }
 
 .container_menu{
-    width: 45%;
+    width: 60%;
+    border:solid;
 }
 
 .container_menu--list{
